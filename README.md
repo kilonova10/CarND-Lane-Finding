@@ -7,4 +7,4 @@ Project developed primarily in OpenCV to detect lane lines in videos and track t
 -> Fitting straight lines to lane lines as best as possible while minimizing the least squares error
 
 Example output:
-![alt text](https://im.ezgif.com/tmp/ezgif-1-90d70c078f3f.gif)
+![Screenshot](challenge.mp4)
