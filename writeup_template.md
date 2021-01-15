@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[i1]: i1 "Original"
+[i1]: i1.png "Original"
 [i2]: i2 "HSL"
 [i3]: i3 "Grayscale"
 [i4]: i4 "Edges"
@@ -45,7 +45,7 @@ They are as follows:
 
 Each step is incrementally shown here.
 
-![alt text][i1]
+! [text][i1]
 
 Step 1:
 
