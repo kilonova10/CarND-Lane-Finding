@@ -45,7 +45,7 @@ They are as follows:
 
 Each step is incrementally shown here.
 
-! [text][i1]
+![text][i1]
 
 Step 1:
 
