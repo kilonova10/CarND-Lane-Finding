@@ -17,11 +17,11 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
 [i1]: i1.png "Original"
-[i2]: i2 "HSL"
-[i3]: i3 "Grayscale"
-[i4]: i4 "Edges"
-[i5]: i5 "ROI"
-[i6]: i6 "Hough Lines"
+[i2]: i2.png "HSL"
+[i3]: i3.png "Grayscale"
+[i4]: i4.png "Edges"
+[i5]: i5.png "ROI"
+[i6]: i6.png "Hough Lines"
 
 
 ---
@@ -50,6 +50,22 @@ Each step is incrementally shown here.
 Step 1:
 
 ![alt text][i2]
+
+Step 2:
+
+![alt text][i3]
+
+Step 3:
+
+![alt text][i4]
+
+Step 4, 5, 6:
+
+![alt text][i5]
+
+Step 6, 7, 8:
+
+![alt text][i6]
 
 
 
